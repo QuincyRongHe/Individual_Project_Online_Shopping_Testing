@@ -1,0 +1,6 @@
+fakeuser1@gmail.com,12345,success,true
+fakeuser1@gmail.com,123456,Invalid UserId / Password,false
+fake1@gmail.com,12345,Invalid UserId / Password,false
+fake9@gmail.com,12,Invalid UserId / Password,true
+
+
